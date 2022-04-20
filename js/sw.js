@@ -1,6 +1,6 @@
 // Created by: Mr. Coxall
 // Created on: Sep 2020
-// This file contains the minimum service worker, for a PWA 
+// This file contains the minimum service worker, for a PWA
 
 self.addEventListener("install", function (event) {
   event.waitUntil(
